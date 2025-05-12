@@ -1,0 +1,36 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: EASIFEM
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Vikas
+    family-names: Sharma
+    email: vickysharma0812@gmail.com
+    affiliation: Kyoto University
+    orcid: 'https://orcid.org/0000-0002-5701-7108'
+  - given-names: Shion
+    family-names: Shimizu
+    email: shimizu.ion819@gmail.com
+    affiliation: Kyoto University
+    orcid: 'https://orcid.org/0009-0003-3239-0242'
+identifiers:
+  - type: url
+    value: 'https://github.com/easifem'
+repository-code: 'https://github.com/easifem'
+url: 'https://www.easifem.com/'
+abstract: >-
+  EASIFEM is modern-fortran platform developed to facilitate
+  Expandable And Scalable Infrastructure for Finite Element
+  Methods. By using EASIFEM you can write scientific codes,
+  especially finite element code faster. It comes with many
+  useful features and can help you in quick implementation
+  of a numerical algorithm.
+keywords:
+  - FEM
+  - Fortran
+  - Geomechanics
